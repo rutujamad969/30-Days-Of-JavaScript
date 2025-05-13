@@ -48,7 +48,7 @@ for(initialization, condition, increment/decrement){
 ```
 
 ```js
-for(let i = 0; i <= 5; i++){
+for(let i = 0; i <= 100; i++){
   console.log(i)
 }
 
